@@ -3,8 +3,6 @@ import 'package:bloc_study/app/data/blocs/tarefa_event.dart';
 import 'package:bloc_study/app/data/blocs/tarefa_state.dart';
 import 'package:bloc_study/app/data/models/tarefa_model.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class TarefasPage extends StatefulWidget {
